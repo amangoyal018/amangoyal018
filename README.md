@@ -1,5 +1,5 @@
 - 👋 Hi, myself Aman
-- 👀 I’m interested in cp
+- 👀 I’m interested in Competitive Programing.
 - 🌱 I’m currently learning
 
 
