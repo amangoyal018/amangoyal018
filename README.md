@@ -10,7 +10,7 @@ I'm a sophomore at NIT Allahabad<br>Deeply enamored with the world of competitiv
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amangoyal018&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amangoyal018&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amangoyal018&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
