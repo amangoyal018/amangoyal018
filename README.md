@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a sophomore at NIT Allahabad<br>Deeply enamored with the world of competitive programming and coding<br>Currently, I'm immersed in mastering advanced data structures and algorithms to unravel intricate problem-solving challenges<br>I can solve a Rubik's Cube in under two minutes, finding a different kind of puzzle-solving thrill outside the digital realm.
+I'm a Pre-Final Year at NIT Allahabad<br>Deeply enamored with the world of competitive programming and coding<br>Currently, I'm immersed in mastering advanced data structures and algorithms to unravel intricate problem-solving challenges<br>I can solve a Rubik's Cube in under two minutes, finding a different kind of puzzle-solving thrill outside the digital realm.
 
 
 ## 🌐 Socials:
